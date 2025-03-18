@@ -1,2 +1,2 @@
 ### Mask Detection
-Tech Stack : Python, ML
+Tech Stack: Python, ML, MATLAB
